@@ -5,6 +5,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=A9E2F3&height=150&section=header&text=Welcome%20to%20my%20page!&fontSize=18" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-98)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
