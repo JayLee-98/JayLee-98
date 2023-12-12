@@ -3,9 +3,7 @@
 <!--
 **JayLee-98/JayLee-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-https://img.shields.io/badge/any_text-you_like-blue
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+<img src="https://capsule-render.vercel.app/api?type=shark&color=A9E2F3&height=150&section=header&text=Welcome%20to%20my%20page!&fontSize=18" />
 
 Here are some ideas to get you started:
 
