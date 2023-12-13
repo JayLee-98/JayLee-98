@@ -1,9 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&color=A9E2F3&height=150&section=header&text=Welcome%20to%20my%20page!&fontSize=18" />
+
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLee-98&show_icons=true&theme=radical)
+
 
 <!--
 **JayLee-98/JayLee-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=A9E2F3&height=150&section=header&text=Welcome%20to%20my%20page!&fontSize=18" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-98)](https://github.com/anuraghazra/github-readme-stats)
 
