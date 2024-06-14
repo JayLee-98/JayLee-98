@@ -13,17 +13,20 @@ const jay = {
 ```
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-E34F26?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-B98FFF?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-6E2CF4?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CC3533?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E54D26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-379AD4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-DB1D20?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A0?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2396ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F0573A?style=flat-square&logo=git&logoColor=white" />
 </p>
 <h3>My recent projects</h3>
 <table>
