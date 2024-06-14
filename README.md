@@ -1,6 +1,7 @@
 # 😁 Hey! Nice to see you.
 
-<p>Welcome to my page! </br> I'm Jay, a Fullstack developer from <img src="https://github.com/thmsgbrt/thmsgbrt/assets/153487581/114c5f64-b86f-4818-be11-4b952a9dd6de" width="25" /> <b>Seoul, Korea</b>.
+<p>Welcome to my page!</p>
+<p>I'm Jay, a fullstack developer from <img src="https://github.com/thmsgbrt/thmsgbrt/assets/153487581/114c5f64-b86f-4818-be11-4b952a9dd6de" width="25" alt="South Korea Flag" /> <b>Seoul, Korea</b>.</p>
 
 ```javascript
 const jay = {
@@ -19,7 +20,7 @@ const jay = {
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CC3533?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E54D26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-379AD4?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-DB1D20?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
