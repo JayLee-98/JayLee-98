@@ -1,6 +1,16 @@
 # 😁 Hey! Nice to see you.
 
 <p>Welcome to my page! </br> I'm Jay, a Fullstack developer from <img src="https://github.com/thmsgbrt/thmsgbrt/assets/153487581/114c5f64-b86f-4818-be11-4b952a9dd6de" width="25" /> <b>Seoul, Korea</b>.
+
+```javascript
+const jay = {
+  pronouns: "he" | "him",
+  education: "Global and International Studies at University of Central Florida",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, Redux, SpringBoot],
+  quotes: "Success is not final; failure is not fatal: It is the courage to continue that counts. —Winston Churchill"
+}
+```
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
