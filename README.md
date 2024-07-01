@@ -22,12 +22,19 @@ const jay = {
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-379AD4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1C?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-DB1D20?style=flat-square&logo=java&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-2376B7?style=flat-square&logo=python&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="SpringDataJPA" src="https://img.shields.io/badge/-Spring Data JPA-4FB71F?style=flat-square&logo=springjpa&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A0?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="apacheTomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=white&style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2396ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F0573A?style=flat-square&logo=git&logoColor=white" />
+  <img alt="intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?style=flat-square&logo=intellijidea&logoColor=fff" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" />
 </p>
 <h3>My recent projects</h3>
 <table>
