@@ -27,7 +27,8 @@ const jay = {
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="SpringDataJPA" src="https://img.shields.io/badge/-Spring Data JPA-4FB71F?style=flat-square&logo=springjpa&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A0?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="apacheTomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=white&style=flat-square" />
+  <img alt="apacheTomcat" src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=white&style=flat-square" />
+  <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2396ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
@@ -35,6 +36,7 @@ const jay = {
   <img alt="intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?style=flat-square&logo=intellijidea&logoColor=fff" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" />
+  <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-039485?logo=fastapi&logoColor=fff&style=flat-square" />
 </p>
 <h3>My recent projects</h3>
 <table>
