@@ -51,7 +51,7 @@ const jay = {
   </thead>
   <tbody>
 	  <tr>
-      <td><a href="https://github.com/JayLee-98/Ketchup_front-end"><b>Stockvibe, a platform for market sentiment analysis and news article summarization</b></a></td>
+      <td><a href="https://github.com/JayLee-98/Ketchup_front-end"><b>STOCKVIBE, a platform for market sentiment analysis and news article summarization</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
