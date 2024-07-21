@@ -12,7 +12,7 @@ const jay = {
   quotes: "Success is not final; failure is not fatal: It is the courage to continue that counts. —Winston Churchill"
 }
 ```
-<h3>Things I code with</h3>
+<h3>Things I code with </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-B98FFF?style=flat-square&logo=redux&logoColor=white" />
