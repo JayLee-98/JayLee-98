@@ -9,7 +9,7 @@ const jay = {
   education: "Global and International Studies at University of Central Florida",
   code: [Javascript, Python, HTML, CSS, Java],
   tools: [React, Redux, SpringBoot],
-  quotes: "Success is not final; failure is not fatal: It is the courage to continue that counts. —Winston Churchill"
+  quotes: "The beginning of wisdom is to desire it. — Solomon Ibn Gabirol"
 }
 ```
 <h3>Things I code with </h3>
