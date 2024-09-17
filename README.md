@@ -14,7 +14,8 @@ const jay = {
 ```
 <h3>Things I code with </h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-3FB883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-B98FFF?style=flat-square&logo=redux&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-6E2CF4?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CC3533?style=flat-square&logo=npm&logoColor=white" />
