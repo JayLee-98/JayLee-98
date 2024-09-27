@@ -1,4 +1,4 @@
-# 😁 Hey! Nice to see you.                     
+# 😁 Hey! Nice to see you.                      
 
 <p>Welcome to my page!</p>
 <p>I'm Jay, a fullstack developer from <img src="https://github.com/thmsgbrt/thmsgbrt/assets/153487581/114c5f64-b86f-4818-be11-4b952a9dd6de" width="25" alt="South Korea Flag" /> <b>Seoul, Korea</b>.</p>
@@ -15,7 +15,7 @@ const jay = {
 <h3>Things I code with </h3>
 <p>
   <img alt="React.js" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-3FB883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-3FB883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-B98FFF?style=flat-square&logo=redux&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-6E2CF4?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CC3533?style=flat-square&logo=npm&logoColor=white" />
