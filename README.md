@@ -12,7 +12,7 @@ const jay = {
   quotes: "The beginning of wisdom is to desire it. — Solomon Ibn Gabirol"
 }
 ```
-<h3>Things I code with </h3>
+<h3>Things I code with </h3> 
 <p>
   <img alt="React.js" src="https://img.shields.io/badge/-React-61D9FB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-3FB883?style=flat-square&logo=vue.js&logoColor=white" />
