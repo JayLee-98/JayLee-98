@@ -1,6 +1,6 @@
 # 😁 Hey! Nice to see you.             
 
-<p>Welcome to my page!</p>  
+<p>Welcome to my page!</p>   
 <p>I'm Jay, a fullstack developer from <img src="https://github.com/thmsgbrt/thmsgbrt/assets/153487581/114c5f64-b86f-4818-be11-4b952a9dd6de" width="25" alt="South Korea Flag" /> <b>Seoul, Korea</b>.</p>
 
 ```javascript
